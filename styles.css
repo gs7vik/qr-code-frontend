@@ -1,0 +1,35 @@
+body{
+   background-color: hsl(212, 45%, 89%);
+}
+
+
+.innermost{
+    background-color:hsl(0, 0%, 100%) ;
+    text-align: center;
+    padding: 50px;
+    border-radius: 5%;
+    margin: 30%;
+    box-shadow: 0 2px 0px 0px rgba(0, 0, 0, 0.1);
+
+    
+}
+.heading{
+    font-family:'Outfit' ;
+    font-size: 1em;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    
+}
+.description{
+    font-family:'Outfit';
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+#image{
+    border-radius: 5%;
+    width:80% ;
+    
+   
+}
+
